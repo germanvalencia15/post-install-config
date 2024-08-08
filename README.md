@@ -6,9 +6,7 @@
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -18,15 +16,16 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 11
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Install/Enable IIS with CGI
+- Install PHP Manager for IIS
+- Install Rewrite Module
+- Install VC redist.x86.exe
+- Install MySQL
+- Install osTicket
 
 <h2>Configuration Steps</h2>
 
