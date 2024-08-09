@@ -40,8 +40,6 @@ In this step I installed IIS with CGI.  From the control panel, you go to Turn O
 
 ![Screenshot 2024-08-08 103739](https://github.com/user-attachments/assets/6af3aac4-8288-449d-8cc7-82b5c1df3ef1)
 
-</p>
-<p>
 In the screenshot above you can see that I downloaded and installed PHP Manager. 
 </p>
 <br />
@@ -50,8 +48,6 @@ In the screenshot above you can see that I downloaded and installed PHP Manager.
 
 ![Screenshot 2024-08-08 104028](https://github.com/user-attachments/assets/d57e8b7b-44b2-4b6b-8a8a-0bfb529bd95f)
 
-</p>
-<p>
 Here I'm installing the Rewrite Module or the rewrite_amd64_en-US.msi.
 </p>
 <br />
@@ -60,4 +56,8 @@ Here I'm installing the Rewrite Module or the rewrite_amd64_en-US.msi.
 
 In this next step I downloaded and installed VC_redist.x86.exe. or C++. 
 
+
+![image](https://github.com/user-attachments/assets/84e236d3-43de-4c1b-a87d-7932063d50ae)
+
+This following step, MySQL was downloaded and installed. 
 
