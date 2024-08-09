@@ -55,3 +55,9 @@ In the screenshot above you can see that I downloaded and installed PHP Manager.
 Here I'm installing the Rewrite Module or the rewrite_amd64_en-US.msi.
 </p>
 <br />
+
+![Screenshot 2024-08-08 105530](https://github.com/user-attachments/assets/7240369b-8327-4227-8698-e469b7f9c0b8)
+
+In this next step I downloaded and installed VC_redist.x86.exe. or C++. 
+
+
