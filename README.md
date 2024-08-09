@@ -61,3 +61,9 @@ In this next step I downloaded and installed VC_redist.x86.exe. or C++.
 
 This following step, MySQL was downloaded and installed. 
 
+
+![image](https://github.com/user-attachments/assets/79e7044c-0879-4b2b-b44f-c3b99701c80b)
+
+Here you can see were are in the final instalation steps setting up help desk name, username, and password.
+
+
