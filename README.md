@@ -24,7 +24,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Create Departments
 - Add new team 
 - Add new agents
-- Item 5
+- Add new users or clients.
 
 <h2>Configuration Steps</h2>
 
@@ -68,5 +68,15 @@ In the image above also in admin panel, agents, then teams, I created a new team
 
 
 Again in admin panel under agents I was able to add new agents, their team, access, and permissions. 
+
+
+![image](https://github.com/user-attachments/assets/8a0058ec-74c8-4d6e-9a68-9c10e743483f)
+
+
+In this image I created a new osTicket user.  This is under the agent panel and then under users. 
+
+
+
+
 
 
