@@ -25,7 +25,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Add new team 
 - Add new agents
 - Add new users or clients.
-- Add new service level agreements. 
+- Add new service level agreements.
+- Add new help topics
 
 <h2>Configuration Steps</h2>
 
@@ -85,6 +86,10 @@ And in this image about you can see that back in the admin panel, under manage, 
 
 
 
+![image](https://github.com/user-attachments/assets/0b2bd25b-d2b1-450f-a6c4-17ab5604652a)
+
+
+And finally in this image above in admin profile, under manage and help topics I added three new topics.  Those are business critical outage, equioment request, passowrd reset, and personal computer issues. 
 
 
 
