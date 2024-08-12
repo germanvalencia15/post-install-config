@@ -39,11 +39,11 @@ In this step I have logged in to osTicket as admin went to theAdmin panel on osT
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/user-attachments/assets/315b4c20-bea5-44d3-979d-6949e638ea41)
+
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+</p>  In this next step same inside of admin panel under departments I created a new department System Administrators and added my name as the manager.
 <br />
 
 <p>
