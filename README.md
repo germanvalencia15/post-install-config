@@ -23,7 +23,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Create roles for agents in osTicket.
 - Create Departments
 - Add new team 
-- Item 4
+- Add new agents
 - Item 5
 
 <h2>Configuration Steps</h2>
@@ -64,5 +64,9 @@ In the image above also in admin panel, agents, then teams, I created a new team
 <br />
 
 
+![image](https://github.com/user-attachments/assets/b1eeec3a-909e-467c-befb-559c3b1f11f1)
+
+
+Again in admin panel under agents I was able to add new agents, their team, access, and permissions. 
 
 
