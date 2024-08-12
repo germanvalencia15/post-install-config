@@ -25,6 +25,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Add new team 
 - Add new agents
 - Add new users or clients.
+- Add new service level agreements. 
 
 <h2>Configuration Steps</h2>
 
@@ -74,6 +75,13 @@ Again in admin panel under agents I was able to add new agents, their team, acce
 
 
 In this image I created a new osTicket user.  This is under the agent panel and then under users. 
+
+
+![image](https://github.com/user-attachments/assets/664ad57f-4891-4dd9-a863-f60e72e2c016)
+
+
+
+And in this image about you can see that back in the admin panel, under manage, then under SLA I was able to add three SLA plans. 
 
 
 
