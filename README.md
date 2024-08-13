@@ -16,15 +16,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Operating Systems Used </h2>
 
-- Windows 11</b> (21H2)
+- Windows 11</b> 
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Create roles for agents in osTicket.
-- Create Departments
-- Add new team 
-- Add new agents
-- Add new users or clients.
+- Create roles for agents,
+- Create departments.
+- Add new team. 
+- Add new agents.
+- Add new end users or clients.
 - Add new service level agreements.
 - Add new help topics
 
