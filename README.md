@@ -36,7 +36,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-In this step I have logged in to osTicket as admin went to theAdmin panel on osTicket and under agent created a Supreme Admin role.
+In this step I have logged into osTicket as admin went to the admin panel and under agent created a Supreme Admin role.
 </p>
 <br />
 
@@ -46,7 +46,10 @@ In this step I have logged in to osTicket as admin went to theAdmin panel on osT
 
 </p>
 
-</p>  In this next step same inside of admin panel under departments I created a new department System Administrators and added my name as the manager.
+
+
+</p>  In this next step again inside of admin panel under departments, I created a new department and named it System Administrators and added my name as the manager.
+
 
 
 <br />
@@ -60,25 +63,53 @@ In this step I have logged in to osTicket as admin went to theAdmin panel on osT
 </p>
 <p>
 
+
   
 In the image above also in admin panel, agents, then teams, I created a new team named Level II. 
 </p>
 <br />
 
 
+
 ![image](https://github.com/user-attachments/assets/b1eeec3a-909e-467c-befb-559c3b1f11f1)
+
+
+
+
 
 
 Again in admin panel under agents I was able to add new agents, their team, access, and permissions. 
 
 
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/8a0058ec-74c8-4d6e-9a68-9c10e743483f)
+
+
+
+
+
+
 
 
 In this image I created a new osTicket user.  This is under the agent panel and then under users. 
 
 
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/664ad57f-4891-4dd9-a863-f60e72e2c016)
+
+
+
+
+
+
 
 
 
@@ -86,10 +117,21 @@ And in this image about you can see that back in the admin panel, under manage, 
 
 
 
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/0b2bd25b-d2b1-450f-a6c4-17ab5604652a)
 
 
-And finally in this image above in admin profile, under manage and help topics I added three new topics.  Those are business critical outage, equioment request, passowrd reset, and personal computer issues. 
+
+
+
+
+
+
+And finally in this image above in admin profile, under manage and help topics I added three new topics.  Those are business critical outage, equipment request, password reset, and personal computer issues. 
 
 
 
